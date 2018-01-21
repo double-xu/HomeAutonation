@@ -1,0 +1,9 @@
+.hs { height:200px; background:#272727; }
+.dbwz { margin-left:150px; display:block; float:left; }
+.dbwz1>a:hover { color:#DD0011; }
+.dbwz>a:hover { color:#DD0011; }
+.dbwz1,.dbwz2 { margin-left:100px; float:left; display:block; }
+.dbwz>div, .dbwz>a, .dbwz1>div, .dbwz1>a { display:block; }
+.dbwz>div,.dbwz1>div,.dbwz2>div:nth-child(1) { font-size:14px; color:#AFAFAF; padding-top:30px; margin-bottom:15px; }
+.dbwz>a, .dbwz1>a { font-size:12px; color:#AFAFAF; margin-bottom:5px; }
+.dbwz2>div:nth-child(3),.dbwz2>div:nth-child(4) { padding-top:10px; }

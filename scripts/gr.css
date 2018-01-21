@@ -1,0 +1,17 @@
+﻿			/*分类 白色*/
+
+			.bsbt { width:100%; height:50px; background:white; }
+			.bsjz { width:91%; height:50px; margin:0 auto; }
+			.bsjz>a { color:#808080; margin-left:25px; line-height:50px; }
+			.bsjz>a:hover { color:#DD0011; }
+			.bsjz>input { outline:none; float:right; margin-top:13px; width:180px; height:20px; margin-right:25px; }
+			.bsjz>img { float:right; margin-top:15px; margin-right:-175px; }
+			/*主体*/
+			.zths { width:100%; background:#c0c0c0; }
+			.zthsjz { width:91%; margin:0 auto; padding-top:20px; }
+			.yh { display:inline-block; margin-left:30px; margin-bottom:20px; }
+			.yh div { width:218px; height:250px; background:white; float:left; margin-right:20px; }
+			.yh div img { margin-top:20px; }
+			.cp { display:block; color:black; font-size:18px; text-align:center; margin-top:5px; }
+			.jg { color:#DD0011; font-size:16px; text-align:center; margin-top:5px; }
+			.yh>div>a { display:block; text-align:center; }

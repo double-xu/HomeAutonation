@@ -1,0 +1,5 @@
+﻿			/*公共样式*/
+			body,nav,ul,li,a,img,p,h1,h4,h2,span,input,aside { margin:0; padding:0; list-style:none; }
+			a { text-decoration:none; font-family:'微软雅黑'; }
+			img { vertical-align:middle; }
+			input { margin:0; padding:0; outline:none; }

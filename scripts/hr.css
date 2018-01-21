@@ -1,0 +1,9 @@
+/*招聘信息*/
+			.dhs { width:100%; background:#c0c0c0; padding-top:10px; padding-bottom:30px; }
+			.zw>a { display:block; width:100px; height:40px; border:1px solid #DD0011; line-height:40px; text-align:center; color:#DD0011; margin-top:20px; margin-left:40%; } 
+			.zw { width:600px; background:white; margin-left:400px; padding-bottom:20px; margin-top:20px; }
+			.zw>h4,.zw>div { padding-top:20px; }
+			.zw>h4 { padding-left:20px; }
+			.zw>p { display:inline-block; color:#c0c0c0; padding-left:20px; padding-top:10px; }
+			.zw>div { border-top:1px solid #c0c0c0; border-bottom:1px solid #c0c0c0; width:580px; margin:0 auto; padding-bottom:20px; }
+			.zw>div>p { padding-top:15px; }

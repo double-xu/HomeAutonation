@@ -1,0 +1,11 @@
+﻿			/*公司简介*/
+			.bskk { width:100%; height:50px; background:white; border-bottom:1px solid #c0c0c0; }
+			.jz { width:360px; height:50px; margin:0 auto; margin-left:386px; }
+			.jz>a { margin-right:20px; color:#7f7f7f; line-height:50px; }
+			.jz>a:hover { color:#DD0011; }
+			/*联系方式及照片*/
+			.bs { width:100%; height:; background:white; }
+			.bs>a { width:860px; }
+			.bs>a>img { margin-left:220px; margin-top:30px; }
+			.lxfs { margin-left:220px; margin-top:20px; padding-bottom:30px; }
+			.lxfs>p { margin-top:10px; width:860px;}

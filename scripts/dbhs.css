@@ -1,0 +1,11 @@
+			/*底部灰色*/
+			.dbhs { height:300px; background:#F5F5F5; }
+			.dbhs>div { float:left; }
+			.mk { margin-left:150px; }
+			.mk>a,.fa>a,.fa1>a { color:black; font-size:14px; }
+			.mk>h1 { padding-top:10px; }
+			.fa>h4,.fa1>h4 { margin-top:5px; margin-bottom:5px; }
+			.fa,.fa1 { margin-left:15px; }
+			.mk>p { color:#AFAFAF; font-size:12px; margin-top:5px; margin-bottom:15px; }
+			.hp { font-size:12px; font-family:'微软雅黑'; margin-top:5px; }
+			.fa1 a img { margin-top:37px; }
